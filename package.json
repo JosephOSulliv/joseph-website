@@ -1,0 +1,19 @@
+{
+  "name": "joseph-website",
+  "version": "1.0.0",
+  "description": "Joseph's Personal Website",
+  "main": "stuff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephOSulliv/joseph-website.git"
+  },
+  "author": "Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephOSulliv/joseph-website/issues"
+  },
+  "homepage": "https://github.com/JosephOSulliv/joseph-website#readme"
+}
