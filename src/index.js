@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './style/index.scss';
+import {homePage} from './home/homePage'
 
-// ReactDOM.render(
-//   <React.StrictMode>
-//   </React.StrictMode>,
-//   document.getElementById('root')
-// );
+ReactDOM.render(
+  <homePage/>,
+  document.getElementById('root')
+);
