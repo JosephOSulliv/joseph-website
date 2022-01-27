@@ -1,9 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './style/index.scss';
-import {homePage} from './home/homePage'
+import {HomePage} from './Home/HomePage';
+
 
 ReactDOM.render(
-  <homePage/>,
+  <HomePage />,
   document.getElementById('root')
 );
+
+

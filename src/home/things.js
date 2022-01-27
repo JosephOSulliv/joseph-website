@@ -1,7 +1,6 @@
 //import React, {useState} from 'react';
 import React from 'react';
-
-export function things({words}) {
+export function Things({words}) {
     return (
         <div>{words}</div>
     );

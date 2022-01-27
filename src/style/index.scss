@@ -11,8 +11,8 @@ $border-radius: 16px;
 $text-color: #343535;
 $white: white;
 $blue-font: rgb(48,63,128);
-$left-color: rgb(250,171,171);
-$right-color: #f99797;
+$left-color: rgb(151, 231, 104);
+$right-color: #74c73d;
 $pink: #ffe7e3;
 $red: #fe5d40;
 $hover-color: rgb(215, 131, 127);
@@ -34,5 +34,9 @@ body {
     background-color: $left-color;
     text-align: center;
   }
+}
+.home-page-img {
+  width: 25%;
+  margin: 20px;
 }
 
